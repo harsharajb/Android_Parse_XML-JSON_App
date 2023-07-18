@@ -1,0 +1,11 @@
+{
+
+  "location":
+  {
+    "place": "Mangalore",
+    "latitude": 30,
+    "longitude": 25,
+    "temperature": 26,
+    "humidity": 15
+  }
+}
